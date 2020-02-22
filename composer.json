@@ -1,9 +1,9 @@
 {
-    "name": "maloja/pico-matomo",
+    "name": "dkyme/pico-matomo",
     "type": "pico-plugin",
     "description": "This plugin will embed a Matomo web analytics tracking-code on all your Picocms pages .",
     "keywords": [ "pico", "picocms", "picocms-plugin", "pico-matomo", "analytics", "matomo" ],
-    "homepage": "https://github.com/maloja/pico-matomo",
+    "homepage": "https://github.com/dkyme/pico-matomo",
     "license": "MIT",
     "authors": [
         {
